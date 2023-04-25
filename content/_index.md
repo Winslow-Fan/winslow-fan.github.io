@@ -288,7 +288,7 @@ sections:
       subtitle: 
       text: 
         <ul>
-          <li><a href="https://funnywii.com">Funny Wii</a> - An excellent engineer and a good friend</li>
+          <li><a href="https://funnywii.com">Funny Wii</a> - An excellent engineer and a good friend.</li>
         </ul>
     design:
       # See Page Builder docs for all section customization options.
