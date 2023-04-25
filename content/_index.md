@@ -219,12 +219,12 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Please leave your contact information and message, I'll contact you as soon as possible.
+      # text: |-
+      #   Please leave your contact information and message, I'll contact you as soon as possible.
       # Contact (add or remove contact options as necessary)
       email: winslowfan0317@gmail.com
-      phone: +86-16619996928
-      appointment_url: 'https://calendly.com'
+      # phone: +86-16619996928
+      # appointment_url: 'https://calendly.com'
       address:
         street: HITCQ, Mingyue Lake, Collaboration Innovation Zone
         city: Chongqing
@@ -251,13 +251,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
