@@ -43,7 +43,7 @@ sections:
         - title: Research Fellow
           company: HITCQ
           company_url: ''
-          company_logo: hit
+          company_logo: building-columns-solid
           location: Chongqing, CN
           date_start: '2022-11-01'
           date_end: ''
@@ -56,7 +56,7 @@ sections:
         - title: MSc
           company: The University of Sheffield
           company_url: ''
-          company_logo: UoS
+          company_logo: building-columns-solid
           location: Sheffield, UK
           date_start: '2021-09-27'
           date_end: '2022-09-27'
@@ -64,7 +64,7 @@ sections:
         - title: BSc
           company: Beijing Institute of Technology
           company_url: ''
-          company_logo: bit
+          company_logo: building-columns-solid
           location: Beijing, CN
           date_start: '2017-08-27'
           date_end: '2021-07-02'
@@ -260,4 +260,9 @@ sections:
       #     captcha: false
     design:
       columns: '2'
+  # - block: links
+  #   id: links
+  #   content: 
+  #     title: Friends & Collaborators
+
 ---
