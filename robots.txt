@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://winslow-fan.github.io/sitemap.xml
