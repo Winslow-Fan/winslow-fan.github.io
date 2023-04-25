@@ -264,5 +264,34 @@ sections:
   #   id: links
   #   content: 
   #     title: Friends & Collaborators
-
+  # - block: tag_cloud
+  #   content:
+  #     title: Friends and Collaborators
+  #     # subtitle: My subtitle
+  #     text: 
+  #       a[Duck Duck Go](https://duckduckgo.com)
+  #       <ul>
+  #         <li>First item</li>
+  #       </ul>
+  #     # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+  #     taxonomy: tags
+  #     # Choose how many tags you would like to display (0 = all tags)
+  #     count: 20
+  #   design:
+  #     # Minimum and maximum font sizes (1.0 = 100%).
+  #     columns: '2'
+  #     font_size_min: 0.7
+  #     font_size_max: 2.0
+  - block: markdown
+    content:
+      title: Friends and Collaborators
+      subtitle: 
+      text: 
+        <ul>
+          <li><a href="https://funnywii.com">Funny Wii</a> - An excellent engineer and a good friend</li>
+        </ul>
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
 ---
