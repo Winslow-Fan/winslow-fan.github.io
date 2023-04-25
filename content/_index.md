@@ -52,7 +52,7 @@ sections:
 
               * Deep Learning Algorithms
               * Modelling
-              * Indeustrial Anomaly Detection
+              * Industrial Anomaly Detection
         - title: MSc
           company: The University of Sheffield
           company_url: ''
@@ -60,7 +60,7 @@ sections:
           location: Sheffield, UK
           date_start: '2021-09-27'
           date_end: '2022-09-27'
-          description: Majoring in Robotics. Getting trained in intelligient robots designing and deep learning algorithms.
+          description: Majoring in Robotics. Getting training in intelligient robots designing and deep learning algorithms.
         - title: BSc
           company: Beijing Institute of Technology
           company_url: ''
