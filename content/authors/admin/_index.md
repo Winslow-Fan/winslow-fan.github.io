@@ -22,7 +22,7 @@ organizations:
     # url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision, deep learning, meta-learning and causal learning in general.
+bio: My research interests include computer vision, deep learning, multi-modality, meta-learning and causal learning in general.
 
 # Interests to show in About widget
 interests:
@@ -30,6 +30,7 @@ interests:
   - Computer Vision
   - Meta-Learning
   - Causal Learning
+  - Multi-Modality
 
 # Education to show in About widget
 education:
@@ -82,5 +83,5 @@ highlight_name: true
 ---
 
 Winslow Fan is a researcher at the Industrial Computer Vision Center in HITCQ. His research interests include 
-computer vision, deep learning, meta-learning and causal learning. 
+computer vision, deep learning, multi-modality, meta-learning and causal learning. 
 {style="text-align: justify;"}
