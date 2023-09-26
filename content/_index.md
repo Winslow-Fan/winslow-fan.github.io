@@ -40,13 +40,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: AI Research Engineer
+          company: The University of Sheffield
+          company_url: ''
+          company_logo: building-columns-solid
+          location: Sheffield, UK
+          date_start: '2023-09-04'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Deep Learning Algorithms
+              * Multi-Modal AI
+              * Contribute to PyKale
+              * Meta-learning
         - title: Research Fellow
           company: HITCQ
           company_url: ''
           company_logo: building-columns-solid
           location: Chongqing, CN
           date_start: '2022-11-01'
-          date_end: ''
+          date_end: '2023-07-09'
           description: |2-
               Responsibilities include:
 
@@ -222,19 +236,19 @@ sections:
       # text: |-
       #   Please leave your contact information and message, I'll contact you as soon as possible.
       # Contact (add or remove contact options as necessary)
-      email: winslowfan0317@gmail.com
+      email: wenrui.fan@sheffield.ac.uk
       # phone: +86-16619996928
       # appointment_url: 'https://calendly.com'
       address:
-        street: HITCQ, Mingyue Lake, Collaboration Innovation Zone
-        city: Chongqing
-        region: Chongqing
-        postcode: '401135'
-        country: China
-        country_code: CN
-      directions: Enter Building 14 and take the stairs to Office 409 on Floor 4
+        street: Regent Court, 30 Regent Street
+        city: Sheffield
+        region: South Yorkshire
+        postcode: 'S1 4DA'
+        country: UK
+        country_code: UK
+      directions: Room 136
       office_hours:
-        - 'Monday~Friday 09:00 to 18:00'
+        - 'Monday~Friday 10:00 to 18:00'
       contact_links:
         - icon: twitter
           icon_pack: fab

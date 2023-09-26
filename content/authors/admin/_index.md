@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Winslow Fan 范文睿
+title: Wenrui Fan 范文睿
 
 # Full name (for SEO)
-first_name: Winslow
+first_name: Wenrui
 last_name: Fan
 
 # Status emoji
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher of Deep Learning
+role: AI Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chongqing Research Institute of HIT
+  - name: Department of Computer Science, The University of Sheffield
     # url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,10 +64,10 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Winslow-Fan
+    link: https://github.com/wenruifan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/winslow-fan-5b1523268/
+    link: https://www.linkedin.com/in/wenrui-fan-a7b68b290/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -76,12 +76,12 @@ social:
     link: uploads/resume-04.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'winslowfan0317@gmail.com'
+email: 'wenrui.fan@sheffield.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Winslow Fan is a researcher at the Industrial Computer Vision Center in HITCQ. His research interests include 
+Wenrui Fan is a AI Research Engineer (AIRE) in the University of Sheffield under the lead of [Haiping Lu](https://haipinglu.github.io/). His research interests include 
 computer vision, deep learning, multi-modality, meta-learning and causal learning. 
 {style="text-align: justify;"}
